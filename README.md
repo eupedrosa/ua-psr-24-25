@@ -19,7 +19,7 @@ Eurico Pedrosa
 |:---:|:---:|:---:|
 | ![Atlas][lar]<br>[Projeto AtlasCar][lar-url] | ![race][]<br>[Projeto RACE][race-url] | ![IROS][iros]<br>[IROS 2014][iros-url]|
 | ![Atlas2][atlas]<br>[AtlasCar2][atlas-url] | ![Atom][atom]<br>[ATOM][atom-url] | ![FNR][fnr]<br>[FNR 2021][fnr-url] |
-| ![Agrov][agrov]<br>[AgrobV2][agrov-url] | ![SEV][sev]<br>[Projecto SEV][sev-url] | ![RACE][race]<br>[Projecto RACE][race-url] |
+| ![Agrov][agrov]<br>[AgrobV2][agrov-url] | ![SEV][sev]<br>[Projecto SEV][sev-url] | ![race][race2]<br>[Projecto RACE][race-url] |
 | ![SmObEx][SmObEx]<br>[SmObEx][SmObEx-url] | ![Stamina][stamina]<br>[Project Stamina][stamina-url] | ![Atom][atom2]<br>[ATOM][atom-url] |
 
 
@@ -40,7 +40,7 @@ Eurico Pedrosa
 [agrov-url]: https://www.researchgate.net/publication/335773466_Parallelization_of_a_Vine_Trunk_Detection_Algorithm_For_a_Real_Time_Robot_Localization_System/figures?lo=1
 [sev]: /img/SEV_final_rt.gif
 [sev-url]: https://github.com/miguelriemoliveira/RustBot
-[race]: /img/PR2ObjectPerception.gif
+[race2]: /img/PR2ObjectPerception.gif
 [race-url]: https://www.project-race.eu/
 [SmObEx]: /img/final_edited.gif
 [SmObEx-url]: https://github.com/lardemua/SmObEx
