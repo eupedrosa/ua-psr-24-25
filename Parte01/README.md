@@ -159,7 +159,7 @@ Estender o exercício 2 de modo a:
 
 NOTA: um pacote python pode ser instalado da seguinte forma:
 ```
-pip install -u colorama
+pip install --user colorama
 ```
 Se não tiver o `pip` instalado, correr `sudo apt install python3-pip`.
 Se `pip` não existir experimente `pip3`.
