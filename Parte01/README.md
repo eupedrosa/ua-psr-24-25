@@ -98,7 +98,7 @@ $ python3 hello.py
 
 Em alternativa, um ficheiro Python pode ser interpretado como se fosse um executável. Para tal, deve executar o seguinte passo (uma única vez):
 ```bash
-$ chomod +x hello.py
+$ chmod +x hello.py
 ```
 
 Adicionalmente, `hello.py` tem que ter presente na sua primeira linha não vazia a seguinte instrução
