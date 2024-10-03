@@ -103,7 +103,7 @@ https://pypi.org/project/readchar/
 Para instalar:
 
 ```bash
-pip install -u readchar
+pip install --user readchar
 ```
 Completar `main.py` o código que falta.
 
