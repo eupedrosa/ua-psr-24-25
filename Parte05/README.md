@@ -137,7 +137,7 @@ Usando a função *cv2.inRange* crie uma máscara dos pixeis com valores de
 rgb entre (bmin, gmin, rmin) e (bmax, gmax, rmax). Parametrize de modod
 a segmentar o caixote verde por trás dos robôs.
 
-![Resultado esperado](images/atlas2000_e_atlasmv_green_segmentation.png)
+![Resultado esperado](imagens/atlas2000_e_atlasmv_green_segmentation.png)
 
 Se mostrar a imagem original com o imshow pode depois colocar o rato
 sobre a zona do caixote para inspeccionar o valor típico dos pixeis
