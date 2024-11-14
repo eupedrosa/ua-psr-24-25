@@ -182,7 +182,7 @@ print ("connecting to %s (%s) with %s" % (local_hostname, local_fqdn, ip_address
 messages = [30, 'Robotics', 31, 14, 'Automation', 18]
 for message in messages:
     print ('Sending message: ' + str(message))
-    sock.sendall(message)
+    sock.sendall(message.encode())
     time.sleep(2)  # wait for two seconds
 
 sock.close()  # close connection
