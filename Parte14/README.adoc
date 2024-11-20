@@ -1,7 +1,7 @@
 # Trabalho 3 - Robutler
 
 Miguel Riem Oliveira <mriem@ua.pt>
-PSR 2022-2023
+Eurico Pedrosa <efp@ua.pt>
 
 ## Sumário
 
