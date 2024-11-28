@@ -131,10 +131,8 @@ modo a construir uma mensagem do tipo
 Esta núvem de pontos correspondente a cada laser scan deve ser
 publicada.
 
-::: informalexample
 Crie um novo package ros *psr_aula10* onde irá colocar todos os scripts
 desenvolvidos.
-:::
 
 Pode ver aqui um [vídeo com uma
 demonstração](https://youtu.be/uZ1pPMIeyw4) do que se pretende.
