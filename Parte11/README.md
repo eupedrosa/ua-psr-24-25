@@ -80,11 +80,9 @@ ferramentas do package *tf*.
 ![Àrvore de transformações para o sistema
 solar.](docs/solar_system_tf_tree.png)
 
-::: informalexample
 Para efeitos de melhor visualização, recomenda-se que multiplique por
 0.01 todas as velocidades, e que multiplique por 10 a distância da terra
 à lua.
-:::
 
 # Exercício 4 - Leitura de transformações
 
@@ -105,9 +103,7 @@ tutorial](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Mod
 e [também
 este](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Movable%20Robot%20Model%20with%20URDF).
 
-::: informalexample
 Os tutoriais para URDF estão em: <http://wiki.ros.org/urdf/Tutorials>
-:::
 
 # Exercício 6 - Um Robô Scara
 
