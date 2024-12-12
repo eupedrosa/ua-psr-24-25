@@ -440,7 +440,7 @@ Crie (ou copie do
 [turtlebot3_description](https://github.com/ROBOTIS-GIT/turtlebot3/tree/master/turtlebot3_description))
 os xacros necessários de modo a que o seu robô tenha elementos como uma
 cor distinta to default. Para alterar a cor de elementos deve ver [este
-tutorial](http://gazebosim.org/tutorials?tut=ros_urdf).
+tutorial](http://wiki.ros.org/urdf/Tutorials/Building%20a%20Visual%20Robot%20Model%20with%20URDF%20from%20Scratchf).
 
 Numa primeira fase, os ficheiros a copiar são:
 
